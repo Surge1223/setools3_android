@@ -1,12 +1,12 @@
 LOCAL_PATH:= $(call my-dir)
 
-libpoldiff_dir	:= $(LOCAL_PATH)/libpoldiff/src
+libpoldiff_dir		:= $(LOCAL_PATH)/libpoldiff/src
 libqpol_dir		:= $(LOCAL_PATH)/libqpol/src
-libsepol_dir	:= $(LOCAL_PATH)/libsepol
+libsepol_dir		:= $(LOCAL_PATH)/libsepol
 bzip2_dir		:= $(libqpol_dir)/bzip2
 libapol_dir		:= $(LOCAL_PATH)/libapol/src
 regex_dir		:= $(libapol_dir)/regex
-checkpolicy_dir := $(LOCAL_PATH)/checkpolicy
+checkpolicy_dir		:= $(LOCAL_PATH)/checkpolicy
 sediff_dir 		:= $(LOCAL_PATH)/sediff
 secmds_dir 		:= $(LOCAL_PATH)/secmds
 
