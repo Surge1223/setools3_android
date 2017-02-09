@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+
+Name: com/tresys/setools/
+Specification-Title: "SETools Java Libraries"
+Specification-Version: "3.3.8"
+Specification-Vendor: "Tresys Technology"
+Implementation-Title: "com.tresys.setools.qpol"
+Implementation-Version: "1.7"
+Implementation-Vendor: "Tresys Technology"
